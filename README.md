@@ -1,6 +1,6 @@
 # AI agents for macroeconomics
 
-An agent-based model of US households, split into four demographic archetypes (young professionals, families, students and retirees). It is calibrated on 1980–2009 and used to forecast real consumption growth one quarter ahead from 2010 to 2026. This repo started as a [research plan](PLAN.md) for Wat Street. This is a first working implementation of its core idea: simulate consumers by archetype, aggregate them, and forecast activity.
+An agent-based model of US households, split into four demographic archetypes (young professionals, families, students and retirees). It is calibrated on 1980–2009 and used to forecast real consumption growth one quarter ahead from 2010 to 2026.
 
 ![forecasts](figures/forecast_test.png)
 
